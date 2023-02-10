@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Semana4.iml" filepath="$PROJECT_DIR$/.idea/Semana4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud_cliente_sprint/clienterest.iml" filepath="$PROJECT_DIR$/crud_cliente_sprint/clienterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crud_exceptions_sprint_boot/crud_exceptions_sprint_boot.iml" filepath="$PROJECT_DIR$/crud_exceptions_sprint_boot/crud_exceptions_sprint_boot.iml" />
+    </modules>
+  </component>
+</project>
